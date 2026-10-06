@@ -21,63 +21,63 @@
 const RASMLAR = {
   p1: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRATQgG9kTLZV4GJnEt_PQab9GEBbnIbPIo9cb2KNDQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVITuphYCJfLakMKbnTMfmhl1n8g12JNfZVEtNNKHrew&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVITuphYCJfLakMKbnTMfmhl1n8g12JNfZVEtNNKHrew&s=10",
+    "images/p1_2.svg",
+    "images/p1_3.svg",
   ], // Kvartira, 1 xona
   p2: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChOE9jxze_otrBG5nThOTlTGp84UIbMUTG_tODy3BPQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbz9YEQ0nabvlthaGY_TdXEFxUEYVV_d7g28vjEHEfQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1517oXQ4UE1XcC7w1fP_nSA2_ZLkoelFR2atrYVpzw&s=10",
+    "images/p2_2.svg",
+    "images/p2_3.svg",
   ], // Hovli, 5 xona
   p3: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusp0BnKURsB69Yk67snRK2xAKN-UdyjF9ei16fVSajg&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxi0Radv0-IWPzZ5COIA-qAr-KuzGwSOaff3D4diTc4w&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl618RqX96JeNBSomnZ8hkBWmDI8g_ErxwKLj2Zj87XA&s",
+    "images/p3_2.svg",
+    "images/p3_3.svg",
   ], // Villa, 6 xona
   p4: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_JkV07h95asJwr3HiSRQFMg0PXSgvtj1Sanh02BNgA&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNukfQvihr1MghEpp4DV7xevJo_WTi6eMpE02P-t_sA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1qnMs4NW-1FZcGxIYkPN9X_ZSdrhsrjBkDa5GkOAVA&s",
+    "images/p4_2.svg",
+    "images/p4_3.svg",
   ], // Yangi uy, 4 xona
   p5: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2QxFGAHkSzpYJe9JPR_dVruE1DNHV3k2wcGT-Xw8-g&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4FjukSN2APx9apKhkuUGXIz0WWV5b667ghMHtFcu0Q&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7FuhjH9h_iQLQaKEmLAPXNWhbYSFfEG94_TgO0XDkg&s",
+    "images/p5_2.svg",
+    "images/p5_3.svg",
   ], // Eski uy, 1 xona
   p6: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-o0QfsHolHkRJ9l5CsoSUV5uIev2FkZxcoG3_UHAJQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Vnvm3VF2OpfFlIQHU91b5og8HhlC4dlTW8-1HY92pA&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzDS9Oj4UCqgGN_RUEYeN30sm7wqv0vueHmUSLJIdZQ&s=10",
+    "images/p6_2.svg",
+    "images/p6_3.svg",
   ], // Kvartira, 2 xona
   p7: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdLGtUuYYKB_4MkRwaqb9EApiOotgFFWgCkM7lwyipA&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v49YsnAZfJ_ajsfsk5n9Sve91ARVr3ehF8Qxrt30iw&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SpDPkP3LOuivbALCj7qPoNGQEifAFmxK8ynHxvuznQ&s=10",
+    "images/p7_2.svg",
+    "images/p7_3.svg",
   ], // Hovli, 4 xona
   p8: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGrxvM6qdBbnygpinVOvIg8_XYbm7nYRz8l5pia-WP9duNJ_7UanWPNn0&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb6cHjDcALDqN0r7AV5QhAsj5mHTrZx-IsKtFUk7SQ_Q&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP09GYZpYT5yhngi9P6khlkiQbn4zpyUR3vuu0IIL0ig&s",
+    "images/p8_2.svg",
+    "images/p8_3.svg",
   ], // Villa, 5 xona
   p9: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvx5YIfn1o_1Er4mh2Xb4y1sHFSJ2zeRmvWqjSo9E_8g&s=10",
-    "https://domtut.uz/resources/uploads/post/xonadonlarning-dizayn-loyihalari.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOzYGLarydS2nRk3FdZSOOBNirKT2GS0MlrinqqNGBSw&s=10",
+    "images/p9_2.svg",
+    "images/p9_3.svg",
   ], // Yangi uy, 1 xona
   p10: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Lb8uJPUK4sShIorYe6GDPfFYKAIwYqSLeBOVhsirCQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmlU3dwvlD_1DP7lpl76iWYfgBrSLRGr7qhzhUOU-aA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtjJAhNYROhOf51_UJv06SlCdlsI9qJfNLFSfQTi4FQ&s",
+    "images/p10_2.svg",
+    "images/p10_3.svg",
   ], // Eski uy, 2 xona
   p11: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpb1lFYYmnPa80V53mm-0xcYAXhnGzeU1PZ6plhLDEg&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmixHkkxMUmXJCGhifjjlBW0sZgeq0tcATyiMegjFEg&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ar0CKAAeHbtYEAZ9bbUoo7EsW75iXIzQ3lpt7yHG-A&s",
+    "images/p11_2.svg",
+    "images/p11_3.svg",
   ], // Kvartira, 3 xona
   p12: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MMBAbIWe_mbbRBUwnHMNJQjazUoZ7uBnOo7nejeTxQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEWxnc7ZWfGF7eNB4JV5dkfL2lCWlka6c_kHiCFqmFQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbaJ1S9vqwARWhToH4p_9wT-kw7RqFtD51IDkHXLwqFg&s=10",
+    "images/p12_2.svg",
+    "images/p12_3.svg",
   ], // Hovli, 6 xona
   p13: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylXl3VCZ1Yx-qnUYIi9J8jJhCfpVvEdOVmuXp2yXQnw&s=10",
@@ -86,38 +86,38 @@ const RASMLAR = {
   ], // Villa, 4 xona
   p14: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAbzNVtRlI8OULPkNAZuZP7AYmQNY-apoMFdS5eRHx4Q&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzCREhxAADoO7Wei1MnAtFoH_G-ibuL1XkbanHAEIOdg&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvc9G3Zm4SM_S-jbfRs4yTf0L7VycLyomYd_n8Dzr3w&s=10",
+    "images/p14_2.svg",
+    "images/p14_3.svg",
   ], // Yangi uy, 2 xona
   p15: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05bxajTwrqiewdV24RX6CdsOJuyonWFl1bcWwaHi-eg&s",
-    "https://frankfurt.apollo.olxcdn.com/v1/files/w2l955bxljh43-UZ/image;s=1000x750",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYpBiUo3oVhH7WKx6vkLPucghByzZLHkoZaiVHoANSlg&s",
+    "images/p15_2.svg",
+    "images/p15_3.svg",
   ], // Eski uy, 3 xona
   p16: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IpFGaHY8igy6dr8curvzydYADxS41LlVFq-R0qiaXQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8v5fChdtknC-wBfGWUOvXRGuLmzAm6iv_AkW3BhigQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_2hPHP6VYsincAnv3kthInimSCpVQTfM0CqT0rSSdQ&s=10",
+    "images/p16_2.svg",
+    "images/p16_3.svg",
   ], // Kvartira, 4 xona
   p17: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6heVJWnLLx1MyllwNcrZcCWHjDC7kofCEuyRVMBqoA&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKGCy6780bdmmlCDEZn_YKIN-kJ-X1NvuXoIh1c5Q2w&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqc0ruATGzU1VEnhrVhzQe3RvcPmjaz6oyPkHCLuwAlQ&s=10",
+    "images/p17_2.svg",
+    "images/p17_3.svg",
   ], // Hovli, 5 xona
   p18: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_jA-FG9Z7iHH-fZMcv5G-BYVm14by5tqNiH36uczMw&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOGpSfWBgLIUZbb5dshoel5_aeBfFUwriFTRTHhoXYg13l8V28rA5D0g&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WO53WcAZY0E81uV0QoY7Fsuuc9BCLUSkmdCIGsoN_g&s=10",
+    "images/p18_2.svg",
+    "images/p18_3.svg",
   ], // Villa, 6 xona
   p19: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFX2gHWHkFyrEw3fEfYCy7mRibfTZ8qnhcevnuAMb50w&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjr9FTFOOQ_wF26-wSUnaYjMbt855s1smiVbWBhzGU8w&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hVvb7wrUaR6RegYd0VKQF2umnE288gE-ySa6MmBRAA&s",
+    "images/p19_2.svg",
+    "images/p19_3.svg",
   ], // Yangi uy, 3 xona
   p20: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZ7Ru8OXrV9MaQPKc51AOS8VniEqD9XJglOAHfn4WOQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwG-c3ZS4lMh1OqP9IqL0jLW-2MEru2av3OqxJODFQA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqVzlpNgZixUTJKSQl9I8GVTEkA8hSoLzK6ebHHApDQ&s",
+    "images/p20_2.svg",
+    "images/p20_3.svg",
   ], // Eski uy, 4 xona
   p21: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMouUYnG9RLYWBe_Z-Eb_nQDb9SoKDbHNBpthvJOftrUJPMFexPS4zUR1q&s=10",
@@ -126,33 +126,33 @@ const RASMLAR = {
   ], // Kvartira, 1 xona
   p22: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZziAjq190BdPWZAmQvmBPdHgODDOmtMxrA9D4HslYGw&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbR1gcd4_HAF54LBqmdDUClm369Qw8-gltiIrapZ__Rg&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaw1pFgITB1fJpifKqD8SaUseXz70fu6xsiS-C_WmWzw&s=10",
+    "images/p22_2.svg",
+    "images/p22_3.svg",
   ], // Hovli, 4 xona
   p23: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRWu9Ckz6h7sbcckhmBVYh6lIDMuRRDxjpAX1tpf-Aw&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn7vS9VgD_diAH6a-m_5PJg5rNKqoVReJ7JKKQTQwpNA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8e4kd6N7ovec9OXcJkOroMj5dwaUvRyTyTwuzGK1j2Q&s",
+    "images/p23_2.svg",
+    "images/p23_3.svg",
   ], // Villa, 5 xona
   p24: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnkH2xxF2pIrA92Ha7E6pQoa8GgNGA4Cer-y868Stiw&s=10",
-    "https://domtut.uz/resources/uploads/post/top-10-dizayn-studi-kvartir-i-domov-v-tashkente-2023-3.jpeg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU21bRpqOYLB9clsZg5tVbtWJCXCRtuinehYvw5BSceg&s=10",
+    "images/p24_2.svg",
+    "images/p24_3.svg",
   ], // Yangi uy, 4 xona
   p25: [
     "https://frankfurt.apollo.olxcdn.com/v1/files/m60p3m94c0331-UZ/image;s=765x1020",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdfScUDmppVs9n35CBvxfOBd5e3ISc23SXAV3c6Hxmg&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtjJAhNYROhOf51_UJv06SlCdlsI9qJfNLFSfQTi4FQ&s",
+    "images/p25_2.svg",
+    "images/p25_3.svg",
   ], // Eski uy, 1 xona
   p26: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn46anintcXqccHmCF89C_r4jbChX4iKrCI3KYgmOR-Q&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHr2pOZ0KTQRJc5QvEQjVB8jUk4p9H-87yenJoolOKKA&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5Ym55qLnThClke750jtJMBsLBK_S32FIlJ83s1FjVw&s=10",
+    "images/p26_2.svg",
+    "images/p26_3.svg",
   ], // Kvartira, 2 xona
   p27: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV3FGlYWi_iuyjKvnACUZmX1yH0t20l3hNRDVmzS-Ejw&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEBpQdPW6OBCb4Km1ujWdHTOxOyDLoMz-C86Dw5DqUjZc-UBleXi2VrAE&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhMyMreOGnsp1UWrQBs_UqG8_8pVU0-EqikZ68-JE7Q&s=10",
+    "images/p27_2.svg",
+    "images/p27_3.svg",
   ], // Hovli, 6 xona
   p28: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrE9yr1bhCeV5ycoDXBOjbmR18OAw9sgfFNx4-9UWAw&s=10",
@@ -161,26 +161,59 @@ const RASMLAR = {
   ], // Villa, 4 xona
   p29: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7RX2Dsm9vaj8osniO8PPAX8Ghp5pqWAVnZf8slXedug&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2k2B-rC2SvTtVbinVXeuOc9TK04RpXVcJA1hVIR_70vT2GK2Vx4yLaUX-&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnkFkxblyYFKfKVnEawNluE1ltSuSxqnE9PFz-ZbNKOg&s=10",
+    "images/p29_2.svg",
+    "images/p29_3.svg",
   ], // Yangi uy, 1 xona
   p30: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncJvdzCvf4weFRkFG4QmDCxBBtXWFry932OXOkdTlyA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqVzlpNgZixUTJKSQl9I8GVTEkA8hSoLzK6ebHHApDQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwG-c3ZS4lMh1OqP9IqL0jLW-2MEru2av3OqxJODFQA&s",
+    "images/p30_2.svg",
+    "images/p30_3.svg",
   ], // Eski uy, 2 xona
   p31: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbE0NEgdh8O2lwQ_ruAtVIwZ6MmR3G_mP6bv3FefC3jQ&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZvmepIfsMK3cDMoQhSDLOUfolyaYcqP4JTU7CLaAEw&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQz98ZSSHOp2ZxwtLUml2TLSjtdMvwwuTb7lime6Wbqg&s",
+    "images/p31_2.svg",
+    "images/p31_3.svg",
   ], // Kvartira, 3 xona
   p32: [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJtwDDJkZz-hEq4nUJ_R8dQBNEGKTQA6EZeCxFmNd0A&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZGyBpmmDx5RWmrmRzEtaBhpDpkNU6FgOCWYARMF-7IQ&s=10",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOgZKzia7YdIGHwe_cV45MtntQcfC-aM2b0VQn0B6zQ&s=10",
+    "images/p32_2.svg",
+    "images/p32_3.svg",
   ], // Hovli, 5 xona
 };
-const nimg = (p) => (RASMLAR[p.id] || [0, 0, 0]).length;
+const nimg = (p) =>
+  p.images && p.images.length
+    ? p.images.length
+    : (RASMLAR[p.id] || [0, 0, 0]).length;
+function readImgResized(file, max = 1000, q = 0.72) {
+  return new Promise((res, rej) => {
+    const r = new FileReader();
+    r.onload = () => {
+      const img = new Image();
+      img.onload = () => {
+        let w = img.width,
+          h = img.height;
+        if (w > max || h > max) {
+          if (w > h) {
+            h = Math.round((h * max) / w);
+            w = max;
+          } else {
+            w = Math.round((w * max) / h);
+            h = max;
+          }
+        }
+        const c = document.createElement("canvas");
+        c.width = w;
+        c.height = h;
+        c.getContext("2d").drawImage(img, 0, 0, w, h);
+        res(c.toDataURL("image/jpeg", q));
+      };
+      img.onerror = rej;
+      img.src = r.result;
+    };
+    r.onerror = rej;
+    r.readAsDataURL(file);
+  });
+}
 
 const $ = (s) => document.querySelector(s),
   g = (k, d) => {
@@ -338,8 +371,11 @@ const TR = {
     addFloorLbl: "Qavat",
     addPhoneLbl: "Telefon",
     addDescLbl: "Tavsif",
+    addImagesLbl: "Rasmlar (ixtiyoriy, 6 tagacha)",
     addSubmit: "E'lon berish",
     defaultDesc: "Yangi e'lon.",
+    imgTooMany: "Faqat birinchi 6 ta rasm olinadi",
+    imgUploading: "Rasmlar yuklanmoqda...",
     roomsWord: "xona",
     floorWord: "qavat",
     unitsSuffix: "ta uy",
@@ -482,8 +518,11 @@ const TR = {
     addFloorLbl: "Этаж",
     addPhoneLbl: "Телефон",
     addDescLbl: "Описание",
+    addImagesLbl: "Фотографии (необязательно, до 6 шт.)",
     addSubmit: "Опубликовать",
     defaultDesc: "Новое объявление.",
+    imgTooMany: "Будут использованы только первые 6 фото",
+    imgUploading: "Загрузка фото...",
     roomsWord: "комн.",
     floorWord: "этаж",
     unitsSuffix: "домов",
@@ -625,8 +664,11 @@ const TR = {
     addFloorLbl: "Floor",
     addPhoneLbl: "Phone",
     addDescLbl: "Description",
+    addImagesLbl: "Photos (optional, up to 6)",
     addSubmit: "Submit listing",
     defaultDesc: "New listing.",
+    imgTooMany: "Only the first 6 photos will be used",
+    imgUploading: "Uploading photos...",
     roomsWord: "rooms",
     floorWord: "floor",
     unitsSuffix: "properties",
@@ -795,6 +837,8 @@ const pTitle = (p) =>
     : t("titleSmall")(p.rooms, typeLabel(p.type), p.dist));
 const pDesc = (p) => p.desc || t("descTpl")(p.dist);
 const im = (p, k = 0) => {
+  const U = p.images;
+  if (U && U.length) return U[k % U.length];
   const L = RASMLAR[p.id];
   if (L && L.length) return L[k % L.length];
   const h = (parseInt(p.id.slice(1)) * 47 + k * 40) % 360;
@@ -1393,13 +1437,37 @@ function addM() {
     return authM(false);
   }
   modal(
-    `<h3 style="margin:0">${t("addFormTitle")}</h3><form class="mf" id="pf"><label>${t("addTitleLbl")}<input name="title" required></label><div class="g2"><label>${t("addTypeLbl")}<select name="type">${T.map((tp) => `<option value="${tp}">${typeLabel(tp)}</option>`).join("")}</select></label><label>${t("addDistLbl")}<select name="dist">${D.map((d) => `<option>${d[0]}</option>`).join("")}</select></label></div><label>${t("addStreetLbl")}<input name="st" required></label><div class="g2"><label>${t("addPriceLbl")}<input name="price" type="number" min="1000" required></label><label>${t("addAreaLbl")}<input name="area" type="number" min="10" required></label><label>${t("addRoomsLbl")}<input name="rooms" type="number" min="1" value="2" required></label><label>${t("addFloorLbl")}<input name="floor" type="number" min="1" value="1"></label></div><label>${t("addPhoneLbl")}<input name="phone" required value="+998 "></label><label>${t("addDescLbl")}<textarea name="desc" rows="3"></textarea></label><button class="b p" style="padding:11px">${t("addSubmit")}</button></form>`,
+    `<h3 style="margin:0">${t("addFormTitle")}</h3><form class="mf" id="pf"><label>${t("addTitleLbl")}<input name="title" required></label><div class="g2"><label>${t("addTypeLbl")}<select name="type">${T.map((tp) => `<option value="${tp}">${typeLabel(tp)}</option>`).join("")}</select></label><label>${t("addDistLbl")}<select name="dist">${D.map((d) => `<option>${d[0]}</option>`).join("")}</select></label></div><label>${t("addStreetLbl")}<input name="st" required></label><div class="g2"><label>${t("addPriceLbl")}<input name="price" type="number" min="1000" required></label><label>${t("addAreaLbl")}<input name="area" type="number" min="10" required></label><label>${t("addRoomsLbl")}<input name="rooms" type="number" min="1" value="2" required></label><label>${t("addFloorLbl")}<input name="floor" type="number" min="1" value="1"></label></div><label>${t("addPhoneLbl")}<input name="phone" required value="+998 "></label><label>${t("addDescLbl")}<textarea name="desc" rows="3"></textarea></label><label>${t("addImagesLbl")}<input type="file" id="pimg" accept="image/*" multiple></label><div id="pimgPrev" class="imgprev"></div><button class="b p" style="padding:11px" id="pfSubmit">${t("addSubmit")}</button></form>`,
   );
-  $("#pf").onsubmit = (e) => {
+  $("#pimg").onchange = (e) => {
+    let files = [...e.target.files];
+    if (files.length > 6) {
+      toast(t("imgTooMany"));
+      files = files.slice(0, 6);
+    }
+    $("#pimgPrev").innerHTML = files
+      .map((f) => `<img src="${URL.createObjectURL(f)}">`)
+      .join("");
+  };
+  $("#pf").onsubmit = async (e) => {
     e.preventDefault();
-    const f = Object.fromEntries(new FormData(e.target)),
+    const btn = $("#pfSubmit"),
+      f = Object.fromEntries(new FormData(e.target)),
       d = D.find((x) => x[0] == f.dist),
       big = f.type == "Hovli" || f.type == "Villa";
+    const files = [...$("#pimg").files].slice(0, 6);
+    let images = [];
+    if (files.length) {
+      btn.disabled = true;
+      btn.textContent = t("imgUploading");
+      try {
+        images = await Promise.all(files.map((fl) => readImgResized(fl)));
+      } catch (err) {
+        images = [];
+      }
+      btn.disabled = false;
+      btn.textContent = t("addSubmit");
+    }
     const p = {
       id: "p" + (100 + UP.length),
       title: f.title,
@@ -1429,6 +1497,7 @@ function addM() {
       phone: f.phone,
       owner: S.me.e,
       desc: f.desc || t("defaultDesc"),
+      images,
     };
     UP.push(p);
     sv("uymap_props", UP);

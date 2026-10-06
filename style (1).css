@@ -942,3 +942,16 @@ nav a.on {
     transition: none !important;
   }
 }
+.imgprev {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.imgprev img {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--bd);
+}
